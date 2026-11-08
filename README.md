@@ -3,11 +3,11 @@
 A dark, no-nonsense gym companion: pick a lift, lock it into today's plan, and watch the week's work add up.
 
 ## 🛠️ Technologies Used
-- Next.js 14 (App Router)
+- Next.js 14 
 - React 18
 - Tailwind CSS
 - Lucide React icons
-- Oswald + Inter (Google Fonts)
+- Oswald + Inter 
 
 ## ✨ Key Features
 1. **Workout Library** — 12 lifts from the API in a responsive 3-column grid with a loading animation.
@@ -26,4 +26,4 @@ npm run dev
 
 ## 🔗 Links
 - Live: _add your link_
-- Repo: _add your link_
+
