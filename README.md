@@ -25,5 +25,5 @@ npm run dev
 ```
 
 ## 🔗 Links
-- Live: _add your link_
+- Live:[(https://fit-log-dusky-kappa.vercel.app/)](https://fit-log-dusky-kappa.vercel.app/)
 
